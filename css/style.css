@@ -7,6 +7,7 @@
        url('../fonts/abolition-regular-webfont.ttf') format('truetype');
 }
 /* Base Styles -------------------- */
+html {
   box-sizing: border-box;
 }
 *, *:before, *:after {
